@@ -1,7 +1,6 @@
 # When to use which Classification Technique
-
-This table contains the assumptions made by each models about the data and conditions which make it favorable/unfavorable to employ their use them.
 ---
+This table contains the assumptions made by each models about the data and conditions which make it favorable/unfavorable to employ their use them.
 
 | **Model**                  | **Assumptions**                                                                                     | **Favorable Conditions to Use**                                                                                           | **Unfavorable Conditions to Avoid**                                                                                       |
 |----------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
